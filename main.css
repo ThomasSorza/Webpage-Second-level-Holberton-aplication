@@ -1,0 +1,134 @@
+.roadsubtitle h2{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 50px;
+    padding: 0;
+    position: relative;
+    color: blue;
+    margin: 4px;
+}
+
+.mtbsubtitle h2{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 50px;
+    padding: 0;
+    position: relative;
+    color: red;
+    margin: 4px;
+}
+
+
+.title1 h1{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 50px;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    color: #000000;
+    margin: 5px;
+}
+
+.title1 h1 span1{
+    color: #FF0000;
+    font-family: 'Langar', cursive;
+    font-size: 50px;
+    font-weight: 50;
+}
+
+.title1 h1 span2{
+    color: #FF0000;
+    font-family: 'Langar', cursive;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.title2 h2{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 50px;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    color: #000000;
+    margin: 4px;
+}
+
+.title2 h2 span{
+    color: #003DE1;
+}
+
+.image{
+    text-align: center;
+    margin: 10px;
+}
+
+.aside-image{
+    text-align: center;
+    margin: 4px
+}
+
+.paragraph{
+    font-family: 'Helvetica', sans-serif;
+    font-size: 23px;
+    text-align: center;
+    color: #000000;
+}
+
+.paragraph2{
+    font-family: 'Helvetica', sans-serif;
+    font-size: 23px;
+    text-align: center;
+    color: #000000;
+}
+
+.paragraph2 span{
+    color: #A90000;
+}
+
+.paragraph1{
+    font-family: 'Helvetica', sans-serif;
+    font-size: 23px;
+    text-align: center;
+    color: #000000;
+}
+
+.paragraph1 span1{
+    color: #E3BC0C;
+}
+
+.paragraph1 span2{
+    color: #F60DCC;
+}
+
+.paragraph1 span3{
+    color: #FF0000;
+}
+
+.links{
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: #4A00A9;
+}
+
+.sub-title1{
+    font-family: 'Faster One', cursive;
+    font-size: 60px;
+    color: blue;
+    text-align: center;
+}
+
+.sub-title2{
+    font-family: 'Metal Mania', cursive;
+    font-size: 75px;
+    color: #191818;
+    text-align: center;
+}
+
+.footer-paragraph{
+	font-family: 'Helvetica', sans-serif;
+	font-size: 23px;
+	text-align: center;
+	color: white;
+}
+
+.footer-paragraph a{
+    color: #A970C4;
+}
